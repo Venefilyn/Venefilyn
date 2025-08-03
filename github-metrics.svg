@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1771" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2354" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -220,7 +220,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    219 views in last two weeks
+                                    227 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -350,14 +350,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 33 commits)</small>
+                    <small class="h-details">(computed from last 49 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.5 characters per line of code written</li>
+                        <li>Has approximately 29.8 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -380,12 +380,6 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 1 day
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 11 days
@@ -406,7 +400,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.12
+                            Average per day at ~2.11
                         </div>
                     </section>
                 </div>
@@ -2381,6 +2375,11 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4615384615384617 0,1.4615384615384617 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4615384615384617 1.7,2.4615384615384617 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2402,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>9001/copyparty</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps</div>
@@ -2423,26 +2422,26 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        17.6k
+                                        18.4k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        575
+                                        607
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        275
+                                        289
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        76
+                                        81
                                     </div>
                                 </div>
                             </section>
@@ -2476,7 +2475,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        79
+                                        80
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2529,7 +2528,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        10.7k
+                                        10.8k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2542,13 +2541,13 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        334
+                                        337
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        486
+                                        489
                                     </div>
                                 </div>
                             </section>
@@ -2595,7 +2594,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        505
+                                        506
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2622,68 +2621,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#819 workflow/verify links</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Venefilyn in <span class="repo">cockpit-project/cockpit-project.github.io</span></div>
-                                    <div class="comment">Woops, yeah you're right. This should only be about the workflow</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#819 workflow/verify links</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">cockpit-project/cockpit-project.github.io</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2248 console: Fix layout bug when header wraps</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by mvollmer in <span class="repo">cockpit-project/cockpit-machines</span></div>
-                                    <div class="comment">@mvollmer how does the layout wrap bug look like?</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Venefilyn/veneos</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix/rechunk-without-sudo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d44deee</div>
-                                        <div class="message">temp: Enable rechunk for testing</div>
+                                        Starred
+                                        <span class="repo">9001/copyparty</span>
                                     </div>
                                 </div>
                             </section>
@@ -2696,17 +2638,582 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Venefilyn/veneos</span>
+                                        <span class="repo">Venefilyn/cockpit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix/rechunk-without-sudo</span></div>
+                                    <div>on branch <span class="code">css/reduce-duplication</span></div>
                                     <div class="commit">
-                                        <div class="sha">#882680b</div>
-                                        <div class="message">temp: Enable rechunk for testing
+                                        <div class="sha">#ce5b515</div>
+                                        <div class="message">css: Remove unintended vendor duplication
+
+After upgrading Sass and changed Sass `@import`s to `@use` and
+`@forward` we got Patternfly CSS included once more across many
+pages due to incorrectly configured global styling. This meant that when
+we imported our global styling with changed variables for Patternfly we
+didn't set it in a way that would allow Sass to use that for future
+imports of Patternfly components. In general this meant that our Sass
+variable changes didn't apply to components. We didn't notice this as an
+issue outside of the fact that we got 404 requests trying to fetch fonts
+from URLs that didn't use our variables for Patternfly.
+
+As we did get an initial modified Patternfly import with our variables
+correctly configured we did not get any issues with font rendering as
+the browser still fetched the fonts so we could use them.
+
+For how this was fixed at a global scale we reordered the imports of
+Patternfly base and our global variables that, among other things, set
+the Sass variables for Patternfly. We changed
+```diff
+-@use "@patternfly/patternfly/base";
+@use "./global-variables";
++@use "@patternfly/patternfly/base";
+```
+
+One playground page stood out in pixel tests as not working after the
+fix, which turned out to be due to incorrectly importing the Patternfly
+overrides rather than the correct `page.scss` that also imports the
+Patternfly CSS base.
+
+We need to load the variables first so that they get properly applied to PatternFly base. The other way around we first get the codebase, then forward and import utilities afterwards, which would mean the initial import is untouched.
 
 Signed-off-by: Freya Gustavsson &lt;freya@venefilyn.se&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 27 commits in
+                                        <span class="repo">Venefilyn/cockpit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">users/interactive-pw-check</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c922a72</div>
+                                        <div class="message">cockpit.js: Type cockpit.http
+
+Without these type definitions, Visual Studio Code is complaining:
+
+&gt; Property 'http' does not exist on type 'typeof import(\"[redacted]/pkg/lib/cockpit\")'
+
+Co-Authored-By: Martin Pitt &lt;mpitt@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca99dd9</div>
+                                        <div class="message">networkmanager: consolidate setup code into one useInit
+
+Move all initialisation code to a single `useInit` without dependencies
+as `model` and `connection` are both initialised once as properties.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acfb4d0</div>
+                                        <div class="message">test: use system package manager for removing packages
+
+Prepare our tests for the eventual removal of PackageKit from RHEL and
+switch to dnf5daemon for the "on demand install dialog".</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea6a389</div>
+                                        <div class="message">test: switch to rpm for removing vdo
+
+Switch to rpm in preparation of a switch to dnf5daemon as this test
+only runs on RHEL.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe7ce68</div>
+                                        <div class="message">test: use systemd-run for running podman as admin user
+
+To eventually support VSOCK for running commands in the virtual machine
+we can no longer use SSHConnection to establish an administrator ssh
+session. Additionally SSHConnection can be refactored without breaking
+our tests nor do we rely on `m.ssh_port` or other machine properties.
+
+There are two separate methods required to run commands, one
+`run_as_admin` which returns the exit code and waits on the command to
+complete. For `podman run -d` we need the command to "detach" and for
+that we have to start the command as an unit and inspect if it runs
+successfully ourself.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b2391d</div>
+                                        <div class="message">test: disable preloading of packagekit for Wireguard test
+
+Starting this test with limited memory runs into dnf-restart memory
+issues on RHEL-10-1 which flakes around ~ 20% of the time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e21620</div>
+                                        <div class="message">test: Fix TestCurrentMetrics.testDiskIO on bootc images
+
+Since commit 109357f6ba62542, our centos-9-bootc test now *does* have
+cockpit-storaged, so adjust the special case similar to what that commit
+already did to TestPages.testMenuSearch.
+
+Do the disabling of the Storage page in a "/usr/ is read-only" friendly
+way.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef6caa0</div>
+                                        <div class="message">test: Refactor mount directories in storage tests
+
+We previously had a wild organically grown mix of test mount directories
+like `/mnt/`, `/foo1`, `/run/foo`, `/mounts` etc., which are
+problematic:
+
+ * Using top-level directories does not work on a read-only root file
+   system (ostree, bootc)
+ * /mnt (and /home) is a symlink to /var/... on OSTree, which breaks
+   test expectations.
+ * Tests leave these directories behind, breaking re-runs and
+   reproducibility.
+
+Replace all of these with a consistent `self.mnt_dir`. This is
+underneath our usual `vm_tmpdir`, which our
+nondestructive test cleanup automatically cleans up, as well as umounts
+all mounts underneath it.
+
+The heavy lifting of this patch was done by Cursor and Claude AI.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#109357f</div>
+                                        <div class="message">test: Install cockpit-storaged for bootc
+
+Our centos-9-bootc bots image has udisks2, and thus cockpit-storaged is
+installable. We don't (yet) run any storage tests there, but it allows
+us to manually run and gradually enable them.
+
+Adjust TestPages.testMenuSearch to expect the "Storage" page in bootc
+scenarios.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad34109</div>
+                                        <div class="message">test: Enable most PackageKit tests on arch
+
+The generalized hack in commit 2c299e56f2d0 fixed most PackageKit tests
+on arch. The only exception is TestUpdates.testBasic, which fails
+because apparently the alpm PackageKit backend does not support
+cancelling. We may refine that test in the future.
+
+`TestApps.testBasic()` also works in principle (locally and in some CI
+runs), but is very unstable in CI. Keep this skipped for now.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98ceea8</div>
+                                        <div class="message">packit: Enable CentOS-Stream-10-image-mode</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d943016</div>
+                                        <div class="message">tmt: Add CentOS 9 bootc test
+
+Disable the two storage plans for now. It's a ton of work to fix the
+tests for TF image mode, and we don't run them upstream on bootc/ostree
+images either. Let's do the enablement step by step.
+
+A lot of our tests assume they can write into /usr/local, and our
+upstream -bootc images allow that. Mount a tmpfs on it.
+
+https://issues.redhat.com/browse/COCKPIT-1214</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c364253</div>
+                                        <div class="message">tmt: Don't run dnf in bootc/ostree tests
+
+The hacks (like amazon-ec2-utils or setroubleshoot-server) we don't need
+on bootc, it's a much more controlled and reproducible environment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adbd461</div>
+                                        <div class="message">tmt: Move extra test dependency to fmf
+
+This avoids having to `dnf install` in browser.sh, which won't work for
+bootc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0422b7c</div>
+                                        <div class="message">test: Type check-system-services
+
+Also fix a few overly long lines.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bbb242</div>
+                                        <div class="message">test: Clean up run_systemctl()
+
+Move to the usual structure of putting the `user` flag as a boolean
+kwarg. Type it and fix the overlong line.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb933c7</div>
+                                        <div class="message">tmt: Move $TEST_OS detection to browser.sh
+
+It's easier to do it there, as that runs on the host; in run-test.sh we
+need that gymnastics to check the host's os-release. That would make it
+much harder to do bootc detection.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b358d</div>
+                                        <div class="message">tmt: Drop obsolete systemd#24150 hack
+
+That was fixed a year ago already.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#285617e</div>
+                                        <div class="message">Bump the patternfly group with 6 updates
+
+Bumps the patternfly group with 6 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@patternfly/patternfly](https://github.com/patternfly/patternfly) | `6.2.3` | `6.3.0` |
+| [@patternfly/react-core](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+| [@patternfly/react-icons](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+| @patternfly/react-styles | `6.2.2` | `6.3.0` |
+| [@patternfly/react-table](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+| [@patternfly/react-tokens](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+
+Updates `@patternfly/patternfly` from 6.2.3 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly/releases)
+- [Changelog](https://github.com/patternfly/patternfly/blob/main/release.config.js)
+- [Commits](https://github.com/patternfly/patternfly/compare/v6.2.3...v6.3.0)
+
+Updates `@patternfly/react-core` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@6.2.2...@patternfly/react-core@6.3.0)
+
+Updates `@patternfly/react-icons` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-icons@6.2.2...@patternfly/react-icons@6.3.0)
+
+Updates `@patternfly/react-styles` from 6.2.2 to 6.3.0
+
+Updates `@patternfly/react-table` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-table@6.2.2...@patternfly/react-table@6.3.0)
+
+Updates `@patternfly/react-tokens` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-tokens@6.2.2...@patternfly/react-tokens@6.3.0)
+
+---
+updated-dependencies:
+- dependency-name: "@patternfly/patternfly"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-core"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-icons"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-styles"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-table"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-tokens"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#505dc4b</div>
+                                        <div class="message">tests: don't count finished animations in ph_count_animations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 38 commits in
+                                        <span class="repo">Venefilyn/cockpit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">css/remove-overrides</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d943016</div>
+                                        <div class="message">tmt: Add CentOS 9 bootc test
+
+Disable the two storage plans for now. It's a ton of work to fix the
+tests for TF image mode, and we don't run them upstream on bootc/ostree
+images either. Let's do the enablement step by step.
+
+A lot of our tests assume they can write into /usr/local, and our
+upstream -bootc images allow that. Mount a tmpfs on it.
+
+https://issues.redhat.com/browse/COCKPIT-1214</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c364253</div>
+                                        <div class="message">tmt: Don't run dnf in bootc/ostree tests
+
+The hacks (like amazon-ec2-utils or setroubleshoot-server) we don't need
+on bootc, it's a much more controlled and reproducible environment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adbd461</div>
+                                        <div class="message">tmt: Move extra test dependency to fmf
+
+This avoids having to `dnf install` in browser.sh, which won't work for
+bootc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0422b7c</div>
+                                        <div class="message">test: Type check-system-services
+
+Also fix a few overly long lines.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bbb242</div>
+                                        <div class="message">test: Clean up run_systemctl()
+
+Move to the usual structure of putting the `user` flag as a boolean
+kwarg. Type it and fix the overlong line.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb933c7</div>
+                                        <div class="message">tmt: Move $TEST_OS detection to browser.sh
+
+It's easier to do it there, as that runs on the host; in run-test.sh we
+need that gymnastics to check the host's os-release. That would make it
+much harder to do bootc detection.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b358d</div>
+                                        <div class="message">tmt: Drop obsolete systemd#24150 hack
+
+That was fixed a year ago already.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#285617e</div>
+                                        <div class="message">Bump the patternfly group with 6 updates
+
+Bumps the patternfly group with 6 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@patternfly/patternfly](https://github.com/patternfly/patternfly) | `6.2.3` | `6.3.0` |
+| [@patternfly/react-core](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+| [@patternfly/react-icons](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+| @patternfly/react-styles | `6.2.2` | `6.3.0` |
+| [@patternfly/react-table](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+| [@patternfly/react-tokens](https://github.com/patternfly/patternfly-react) | `6.2.2` | `6.3.0` |
+
+Updates `@patternfly/patternfly` from 6.2.3 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly/releases)
+- [Changelog](https://github.com/patternfly/patternfly/blob/main/release.config.js)
+- [Commits](https://github.com/patternfly/patternfly/compare/v6.2.3...v6.3.0)
+
+Updates `@patternfly/react-core` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@6.2.2...@patternfly/react-core@6.3.0)
+
+Updates `@patternfly/react-icons` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-icons@6.2.2...@patternfly/react-icons@6.3.0)
+
+Updates `@patternfly/react-styles` from 6.2.2 to 6.3.0
+
+Updates `@patternfly/react-table` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-table@6.2.2...@patternfly/react-table@6.3.0)
+
+Updates `@patternfly/react-tokens` from 6.2.2 to 6.3.0
+- [Release notes](https://github.com/patternfly/patternfly-react/releases)
+- [Commits](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-tokens@6.2.2...@patternfly/react-tokens@6.3.0)
+
+---
+updated-dependencies:
+- dependency-name: "@patternfly/patternfly"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-core"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-icons"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-styles"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-table"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+- dependency-name: "@patternfly/react-tokens"
+  dependency-version: 6.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: patternfly
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#505dc4b</div>
+                                        <div class="message">tests: don't count finished animations in ph_count_animations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c299e5</div>
+                                        <div class="message">test: always restart/refresh packagekit on Arch Linux
+
+The alpm PackageKit backend does not automatically detect new
+configured repositories when they are added.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#047cfd9</div>
+                                        <div class="message">test: simplify Arch Linux packagekit hack
+
+Force refreshing is enough to detect fake-libnfs/fake-nfs-utils.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2b51f3</div>
+                                        <div class="message">test: drop Arch Linux PackageKit repository workaround</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5d5ec7</div>
+                                        <div class="message">login: Improve error message for unsupported shells
+
+When trying to log in with a shell that does not understand `exit 71`
+(our litmus test for "reasonable shell"), this was previously really
+hard to understand/debug: The journal did not show anything bad other
+than that the session only lasted a blink of an eye, and the login page
+just said "permission denied".
+
+Log a proper warning to the journal that explains what happens.
+
+Let the login page show "Unsupported shell. Check the journal for
+details." We are past authentication at this point, so we can afford
+giving away that piece of information.
+
+This does not really work on Arch, where /etc/pam.d/system-login
+enforces `pam_shells`. So any "odd" shell already gets rejected in the
+`auth` stage, and the session (and thus this shell validity check) does
+not even start. That was also the reason for the tow alternative
+`error-title` matches before.
+
+Fixes #20741</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#953ef69</div>
+                                        <div class="message">test: Robustify shell reset in TestLogin.testBasic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2038da3</div>
+                                        <div class="message">build: Create missing src/common/ directory in build tree
+
+This caused a build failure with parallel builds when using a separate
+build tree. Thanks to Nicolas LANTZ for the fix!
+
+Fixes #21918</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#669373d</div>
+                                        <div class="message">test: Restore subuids to unbreak rootless podman
+
+Recent shadow-utils broke rootless containers [1][2]. This is under
+heavy debate, but until then unbreak our tests by restoring the working
+configuration and re-adding subuids to our admin users.
+
+Fixes #2203
+
+[1] https://bugzilla.redhat.com/show_bug.cgi?id=2382662
+[2] https://issues.redhat.com/browse/RHEL-103765</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ac61ff</div>
+                                        <div class="message">Revert "test: Don't create a empty pacman repo"
+
+This reverts commit 10a12e5b5f94fa2ab1aae1151e465c6862338823.
+
+This was fixed in pacman:
+
+https://gitlab.archlinux.org/pacman/pacman/-/commit/8d14b22260026ec3d567d6367f83b9ab580b6556</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb821b5</div>
+                                        <div class="message">cockpit-ci: Update container to 2025-07-26
+
+Closes #22254</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e29d74</div>
+                                        <div class="message">Bump @typescript-eslint/eslint-plugin in the types group
+
+Bumps the types group with 1 update: [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin).
+
+Updates `@typescript-eslint/eslint-plugin` from 8.37.0 to 8.38.0
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.38.0/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-version: 8.38.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: types
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a86270</div>
+                                        <div class="message">test: drop "dnf clean" failure workaround</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#22272 css: Remove radio and checkbox overrides</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">cockpit-project/cockpit</span></div>
+                                    <div>2 files changed <span class="code">++4 --44</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2715,7 +3222,7 @@ Signed-off-by: Freya Gustavsson &lt;freya@venefilyn.se&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2025, 02:14:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Aug 2025, 02:16:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
